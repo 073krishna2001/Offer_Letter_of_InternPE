@@ -2,7 +2,7 @@
 A short notice site completion. In this task we have to convert the image of offer letter of InternPE to a newly website which looks exactly like the letter.
 
 
-## Demonstration -> [Live site](https://073krishna2001.github.io/Calculator_for_InternPe/)
+## Demonstration -> [Live site](https://073krishna2001.github.io/Offer_Letter_of_InternPE/)
 
 - Original Image : 
 <table>
