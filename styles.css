@@ -223,3 +223,194 @@ footer {
         width: 50%;
     }
 }
+
+
+@media (max-width: 575px) {
+    #heading h2 {
+        font-size: 17px;
+    }
+
+    #heading p {
+        font-size: 5px;
+    }
+
+    #logo img {
+        width: 110px;
+    }
+
+    .offer-id h1 {
+        font-size: 25px;
+    }
+
+    .offer-id h2 {
+        font-size: 16px;
+    }
+
+    .offer-text {
+        margin-top: 50px;
+        font-size: 15px;
+    }
+
+    #name {
+        margin-bottom: 30px;
+    }
+
+    #para-1 {
+        margin-bottom: 50px;
+    }
+
+    #para-2 {
+        margin-bottom: 20px;
+    }
+
+    #para-3 {
+        margin-bottom: 5px;
+    }
+
+    .stamp-section img {
+        width: 100px;
+    }
+
+    .stamp-section h3 {
+        font-size: 15px;
+    }
+
+    .stamp-section {
+        margin-bottom: 70px;
+    }
+
+    footer {
+        font-size: 10px;
+    }
+
+    img {
+        width: 40%;
+    }
+}
+
+
+@media (max-width: 446px) {
+    #heading h2 {
+        font-size: 11px;
+    }
+
+    #heading p {
+        font-size: 5px;
+    }
+
+    #logo img {
+        width: 80px;
+    }
+
+    .offer-id h1 {
+        font-size: 19px;
+    }
+
+    .offer-id h2 {
+        font-size: 10px;
+    }
+
+    .offer-text {
+        margin-top: 40px;
+        font-size: 9px;
+    }
+
+    #name {
+        margin-bottom: 20px;
+    }
+
+    #para-1 {
+        margin-bottom: 30px;
+    }
+
+    #para-2 {
+        margin-bottom: 10px;
+    }
+
+    #para-3 {
+        margin-bottom: 3px;
+    }
+
+    .stamp-section img {
+        width: 80px;
+    }
+
+    .stamp-section h3 {
+        font-size: 10px;
+    }
+
+    .stamp-section {
+        margin-bottom: 50px;
+    }
+
+    footer {
+        font-size: 7px;
+    }
+
+    img {
+        width: 30%;
+    }
+}
+
+@media (max-width: 360px) {
+    #heading h2 {
+        font-size: 11px;
+    }
+
+    #heading p {
+        font-size: 5px;
+    }
+
+    #logo img {
+        width: 50px;
+    }
+
+    .offer-id h1 {
+        font-size: 12px;
+    }
+
+    .offer-id h2 {
+        font-size: 9px;
+    }
+
+    .offer-text {
+        margin-top: 30px;
+        font-size: 8px;
+    }
+
+    #name {
+        margin-bottom: 15px;
+    }
+
+    #para-1 {
+        margin-bottom: 25px;
+    }
+
+    #para-2 {
+        margin-bottom: 9px;
+    }
+
+    #para-3 {
+        margin-bottom: 5px;
+    }
+
+    .stamp-section img {
+        width: 50px;
+    }
+
+    .stamp-section h3 {
+        font-size: 7px;
+    }
+
+    .stamp-section {
+        margin-bottom: 40px;
+    }
+
+    footer {
+        font-size: 6px;
+    }
+
+    img {
+        width: 25%;
+    }
+}
